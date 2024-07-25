@@ -1,4 +1,4 @@
-# Little Lemon - Reustorant & Booking
+:lemon: # Little Lemon - Restaurant :lemon:
 
 ## Introduction
 
