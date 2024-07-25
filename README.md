@@ -44,7 +44,7 @@ https://www.figma.com/design/urxoicGhPBkSO4dL4jg5md/Mockup-Little-Lemon?node-id=
 - Run `npm install`
 - Run `npm start`
 
-## Installation
+## Tests
 
 - Run `npm run test`
   
