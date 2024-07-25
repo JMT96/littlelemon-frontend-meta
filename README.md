@@ -1,4 +1,4 @@
-:lemon: # Little Lemon - Restaurant :lemon:
+# :lemon: Little Lemon - Restaurant :lemon:
 
 ## Introduction
 
