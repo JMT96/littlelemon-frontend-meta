@@ -1,101 +1,49 @@
-# Restaurant Reservation and Menu Management
-## Welcome to the Restaurant Reservation and Menu Management System! This project allows users to explore the restaurant menu, make bookings, and learn more about the restaurant.
+# Little Lemon - Reustorant & Booking
+
+## Introduction
+
+In this project, from the beginning with figma wireframe design and figma UI design, I created a restaurant website with ReactJS. I tried to use all the features of ReactJS. I made a table reservation system. (I Designed I Coded I Published).
 
 
-### FRONTEND VIEW'S
-Home:
-    URL: /
-    View: views.index
-    Name: home
+---
 
-About Page:
-    URL: /about/
-    View: views.about
-    Name: about
+### Wireframe
 
-Booking Page:
-    URL: /book/
-    View: views.book
-    Name: book
+https://www.figma.com/design/EDEQYq0Qfbj7jfzSE0HUrE/Wireframe_Little_Lemon?node-id=0-1&m=dev&t=DykYxFag3Rx8xdNC-1
 
-Menu Page:
-    URL: /menu/
-    View: views.menu
-    Name: menu
+</details>
 
-### BACKEND API Endpoints
-Menu Items - Retrieve All Menu Items
-    URL: /api/menu/
-    View: views.MenuItemView.as_view()
-    Name: menu-list
-    Method: GET
+<br />
 
 
-Retrieve Specific Menu Item
-    URL: /api/menu/<int:pk>/
-    View: views.MenuItemDetail.as_view()
-    Name: menu-detail
-    Method: GET
+### UI Design
 
-Display Menu Item
-    URL: /api/menu_item/<int:pk>/
-    View: views.display_menu_item
-    Name: menu_item
-    Method: GET
+https://www.figma.com/design/urxoicGhPBkSO4dL4jg5md/Mockup-Little-Lemon?node-id=0-1&m=dev&t=pYbYRm74s2jrKkZS-1
 
-Bookings - Create and List Bookings
-    URL: /api/bookings/
-    View: views.BookingView.as_view()
-    Name: booking-list
-    Methods: GET, POST
+</details>
 
-Retrieve, Update, and Delete Specific Booking
-    URL: /api/bookings/<int:pk>/
-    View: views.BookingDetail.as_view()
-    Name: booking-detail
-    Methods: GET, PUT, DELETE
+---
 
+## Features
 
-## Getting Started
-To get a local copy up and running, follow these simple steps.
+- Book a table
+- View menu - Order food online
 
-### Prerequisites
-Python 3.x
-Django
-MySQL
+---
+
+## Technologies
+
+- React JS
+
+---
 
 
 ## Installation
 
-### Clone the repo
-git clone https://github.com/yourusername/restaurant-reservation.git
+- Clone the repository
+- Run `npm install`
+- Run `npm start`
 
-### Install Django packages
-pip install -r requirements.txt
+## License
 
-### Configure your database settings in settings.py.
-
-### Run the migrations
-
-'''
-python manage.py makemigrations
-python manage.py migrate
-'''
-
-
-### Start the development server
-
-'''
-python manage.py runserver
-'''
-
-## Usage
-Visit the homepage at http://127.0.0.1:8000/.
-
-License
-Distributed under the MIT License. See LICENSE for more information.
-
-Contact
-Your Name - joshunoseke32@gmail.com
-
-Project Link: https://github.com/JMT96/littlelemon-backend-meta
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
