@@ -44,6 +44,10 @@ https://www.figma.com/design/urxoicGhPBkSO4dL4jg5md/Mockup-Little-Lemon?node-id=
 - Run `npm install`
 - Run `npm start`
 
+## Installation
+
+- Run `npm run test`
+  
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
