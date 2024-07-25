@@ -7,7 +7,7 @@ In this project, from the beginning with figma wireframe design and figma UI des
 
 ---
 
-### Wireframe
+### Wireframe :fireworks:
 
 https://www.figma.com/design/EDEQYq0Qfbj7jfzSE0HUrE/Wireframe_Little_Lemon?node-id=0-1&m=dev&t=DykYxFag3Rx8xdNC-1
 
@@ -16,7 +16,7 @@ https://www.figma.com/design/EDEQYq0Qfbj7jfzSE0HUrE/Wireframe_Little_Lemon?node-
 <br />
 
 
-### UI Design
+### UI Design :man_with_gua_pi_mao:
 
 https://www.figma.com/design/urxoicGhPBkSO4dL4jg5md/Mockup-Little-Lemon?node-id=0-1&m=dev&t=pYbYRm74s2jrKkZS-1
 
@@ -24,30 +24,35 @@ https://www.figma.com/design/urxoicGhPBkSO4dL4jg5md/Mockup-Little-Lemon?node-id=
 
 ---
 
-## Features
+## Features :hotsprings:
 
 - Book a table
 - View menu - Order food online
 
 ---
 
-## Technologies
+## Technologies :stars:
 
 - React JS
 
 ---
 
 
-## Installation
+## Installation :key:
 
 - Clone the repository
 - Run `npm install`
 - Run `npm start`
 
-## Tests
+## Tests :scroll:
 
 - Run `npm run test`
   
-## License
+## Preview :eyes:
+
+- https://littlelemon-frontend-meta-git-main-jmt96s-projects.vercel.app/
+
+
+## License :octocat:
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
