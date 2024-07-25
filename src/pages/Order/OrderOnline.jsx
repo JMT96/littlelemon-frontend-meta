@@ -69,7 +69,7 @@ const OrderOnline = () => {
 
   return (
     <div className="App">
-      <h1>Menú del Día</h1>
+      <h1>Menu</h1>
       <div className="food-card-list">
         {foodSections.map((section, index) => (
           <div key={index} className="food-section">
